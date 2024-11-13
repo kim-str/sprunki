@@ -2,7 +2,7 @@
 
 Welcome to the official repository of Incredibox Sprunki, a fan-made music creation game inspired by Incredibox.
 
-![Incredibox Sprunki Logo](path/to/logo.png)
+![Incredibox Sprunki Logo](https://incrediboxsprunki.me/logo.svg))
 
 ## About Incredibox Sprunki
 
